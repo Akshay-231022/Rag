@@ -51,21 +51,21 @@ Complete RAG for Enterprise QA
                         ▼
                     Structured Response
 -------------------------------------------------------------------
-How LangChain Works
+                            How LangChain Works
 
-Retriever
+                            Retriever
 
-+
+                            +
 
-Prompt
+                            Prompt
 
-+
+                            +
 
-LLM
+                            LLM
 
-↓
+                            ↓
 
-Chain
+                            Chain
 -------------------------------------------------------------------
 requirement-testcase-rag
 │
