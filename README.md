@@ -30,23 +30,23 @@ Complete RAG for Enterprise QA
 
                 Runtime (User Query)
 
-User Question
-      |
-      ▼
-Embedding Model
-      |
-      ▼
-Vector Similarity Search
-      |
-      ▼
-Top-K Relevant Chunks
-      |
-      ▼
-Prompt Template
-(Context + Question)
-      |
-      ▼
-LLM
-      |
-      ▼
-Structured Response
+                    User Question
+                        |
+                        ▼
+                    Embedding Model
+                        |
+                        ▼
+                    Vector Similarity Search
+                        |
+                        ▼
+                    Top-K Relevant Chunks
+                        |
+                        ▼
+                    Prompt Template
+                    (Context + Question)
+                        |
+                        ▼
+                    LLM
+                        |
+                        ▼
+                    Structured Response
